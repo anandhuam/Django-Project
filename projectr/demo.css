@@ -1,0 +1,80 @@
+
+.navbar{
+   background-color: white;
+   border-radius: 5px;
+   box-shadow: 1px 3px 4px 3px rgba(0,0,0,.2);
+   
+   
+
+
+    
+
+}
+.bar{
+    
+}
+
+.makeappointment{
+    color: white;
+    background-color:#85ba32;
+    text-decoration: none;
+    padding: 10px;
+    
+    
+    
+}
+a.nav-link{
+    color: rgb(0, 0, 0);
+   
+    
+}
+a.nav-link:hover{
+    color: white;
+    background-color: rgb(44, 44, 158);
+    border-radius: 6px;
+    
+}
+.text{
+    padding-top: 230px;
+    padding-left: 115px;
+   
+   
+}
+.maintext{
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif ;
+}
+.subtext{
+    font-size: large;
+}
+a.more{
+    font-size: 15px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+   padding: 5px 20px 6px 20px;
+    border-radius: 20px;
+
+}
+a.more:hover{
+    background-color:#85ba32;
+    color: white;
+}
+.news-events-scroll{
+    /* padding-top: 600px; */
+    background-color:#85ba32;
+}
+.space{
+    padding-top: 100px;
+    padding-bottom: 50px;    
+}
+.block-heading{
+    font-size: 40px;
+}
+.wp-block-heading{
+    color: rgb(49, 49, 161);
+}
+.img{
+    border-radius: 4px;
+}
+
